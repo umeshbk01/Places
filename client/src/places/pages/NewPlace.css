@@ -1,0 +1,28 @@
+.form{
+    position: relative;
+    margin-top: -10rem;
+  }
+  .form .form-group {
+    margin: 1.5rem 0;
+    position: relative;
+  }
+  .form.form-group-ADDEXP {
+    margin: 10rem 0;
+    position: relative;
+  }
+  .form.form-group-ADDEXP{
+    display: block;
+    padding: 14px 10px;
+    width: 250px;
+    outline: none;
+    border-radius: 24px;
+    color: white;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 1.2rem;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: 0.25s;
+  
+  }
+  

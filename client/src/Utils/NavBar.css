@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+   
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    font-family: 'Poppins',sans-serif;
+    background-image: linear-gradient(to right, #ffffff,#ee681ad7, #ee681ad7);
+    padding: 0.7rem 2rem;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+    border-bottom: solid 1px ;
+    opacity: 0.9;
+  }
+  .bg-dark1{
+    background: var(--dark-color);
+    color: #fff;
+   
+    padding: 0.2rem 1.2rem;
+    font-weight: bold;
+  }
